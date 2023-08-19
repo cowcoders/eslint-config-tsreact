@@ -31,14 +31,14 @@
     "eslint-plugin-react-hooks": "4.6.0"
   },
   "peerDependencies": {
-    "@cowcoders/eslint-config-base": "1.1.1",
-    "@cowcoders/eslint-config-ts": "1.0.1",
-    "@typescript-eslint/eslint-plugin": "6.4.0",
-    "@typescript-eslint/parser": "6.4.0",
-    "confusing-browser-globals": "1.0.11",
-    "eslint": "8.47.0",
-    "eslint-plugin-import": "2.28.1",
-    "eslint-plugin-react": "7.33.2",
-    "eslint-plugin-react-hooks": "4.6.0"
+    "@cowcoders/eslint-config-base": ">=1.1.1",
+    "@cowcoders/eslint-config-ts": ">=1.0.1",
+    "@typescript-eslint/eslint-plugin": ">=6.4.0",
+    "@typescript-eslint/parser": ">=6.4.0",
+    "confusing-browser-globals": ">=1.0.11",
+    "eslint": ">=8.47.0",
+    "eslint-plugin-import": ">=2.28.1",
+    "eslint-plugin-react": ">=7.33.2",
+    "eslint-plugin-react-hooks": ">=4.6.0"
   }
 }

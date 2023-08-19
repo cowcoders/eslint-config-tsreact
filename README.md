@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>@cowcoders/eslint-config-ts</h1>
+    <h1>@cowcoders/eslint-config-tsreacr</h1>
 </div>
 
-<p>ESLint config for TypeScript projects 🐄</p>
+<p>ESLint config for TypeScript React projects 🐄</p>
 
 ---
 
@@ -34,7 +34,7 @@ To usage this eslint configuration you only need to add it in your eslintrc file
 
 ```javascript
 module.exports = {
-    extends: '@cowcoders/eslint-config-ts'
+  extends: '@cowcoders/eslint-config-ts'
 }
 ```
 

@@ -25,7 +25,7 @@ yarn add -D @cowcoders/eslint-config-ts
 Install depencencies
 
 ```shell script
-npm i --save-dev eslint @cowcoders/eslint-config-base @typescript-eslint/eslint-plugin @typescript-eslint/parser 
+npm i --save-dev eslint @cowcoders/eslint-config-base @cowcoders/eslint-config-ts @typescript-eslint/eslint-plugin @typescript-eslint/parser confusing-browser-globals eslint-plugin-import eslint-plugin-react eslint-plugin-react-hooks 
 ```
 
 ## Usage
